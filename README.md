@@ -1,15 +1,23 @@
-# BaiscML_Football
+# BasicML_Football
 
-Basic ML concepts tried out on Euros 2024 data from Statsbomb
+This project applies basic Machine Learning concepts to Euros 2024 data from Statsbomb.
 
-The concepts -
+## Machine Learning Concepts Explored
+
 1. Linear Regression
 2. Decision Trees
 3. Naive Bayes
-4. SVM
-5. PCA
-6. KNN
-7. KMeans
+4. Support Vector Machines (SVM)
+5. Principal Component Analysis (PCA)
+6. K-Nearest Neighbors (KNN)
+7. K-Means Clustering
 
+## Dataset
 
-The datasets used can be found at - [https://github.com/statsbomb/open-data?tab=readme-ov-file](https://github.com/statsbomb/open-data)
+The data used in this project is sourced from Statsbomb's open-data repository. You can find the datasets at:
+
+[Statsbomb Open Data](https://github.com/statsbomb/open-data)
+
+## Acknowledgements
+
+- Statsbomb for providing the open-source football data
